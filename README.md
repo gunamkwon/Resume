@@ -80,3 +80,20 @@
       이를 **Android Framework에서는 Main(UI) Thread와 Worker Thread들을 통해 해결했다는 사실에 Android Framework에 관한 관심과 흥미가 시작되었습니다.**
     - 디바이스 드라이버를 통해 구현한 API로 MultiThread 시스템 구현
     
+## Works
+
+### EO TECHNICS 인턴
+- 기간 : 2021.08 ~
+- 직무 : 시스템 사업팀(레이저 장비 제어)
+
+
+
+## Activities
+
+### Android 멘토링 
+ - 기간 : 2021.08 ~ 
+ - 팀원 : 안드로이드 개발자(4명)
+ - 활동 : 오픈소스 Instagram Clone 앱을 바탕으로 자신이 원하는 기능의 성능을 개선한 앱을 개발하는 스터디
+### 임베디드 시스템 연구실(학부연구생)
+ - 기간 : 2020.08 ~ 2021.01
+ - 활동 : 3D프린터 베드 온도 조절을 위한 MCU 제어 및 회로 개발
